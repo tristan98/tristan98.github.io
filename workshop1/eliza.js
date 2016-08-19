@@ -30,6 +30,13 @@
 var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
+    "Why are you botheing me."
+    "Jesus I am on Coffee Break."
+ ],
+ "~*x wah ~*y" [
+ 	"Uh huh."
+ 	" Of course."
+ 	"yeahhhhhhhh"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
